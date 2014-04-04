@@ -1,7 +1,7 @@
 {
-  "name": "Chrome DevTools Dark Theme",
-  "version": "1.1",
-  "description": "Enable DevTools experiments in about:flags, then open DevTools and toggle \"Allow UI themes\" experiment.",
+  "name": "jmaurice/chrome-devtools-style",
+  "version": "1.2",
+  "description": "enable devtool experiments in about:flags, then open devtools and enable the 'allow ui themes' experiment.",
   "devtools_page": "devtools.html",
   "manifest_version": 2
 }
