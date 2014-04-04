@@ -1,0 +1,1 @@
+rm chrome-devtools-style.zip ; zip chrome-devtools-style.zip -r chrome-devtools-style --exclude chrome-devtools-style/.git/\* --exclude chrome-devtools-style/README.md --exclude chrome-devtools-style/compile
